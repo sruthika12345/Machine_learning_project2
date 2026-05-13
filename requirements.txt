@@ -1,5 +1,6 @@
 setuptools
 wheel
+flask
 catboost==1.2.10
 contourpy==1.1.1
 cycler==0.12.1
